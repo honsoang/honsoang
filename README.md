@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @honsoang
+- 🌱 I’m currently learning rust
