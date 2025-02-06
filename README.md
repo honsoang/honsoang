@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @honsoang
-- 🌱 I’m currently learning rust
+negrotech @ 2025
